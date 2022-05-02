@@ -1,5 +1,5 @@
 # javascript-projects
 
-## Project No. 1
+## Projects List
 -----
 - Carousel slider
